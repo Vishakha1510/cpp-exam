@@ -1,1 +1,5 @@
-# cpp-exam
+![1](https://github.com/Vishakha1510/cpp-exam/assets/115111570/cd97704b-f27d-42ae-b978-803cccabaefe)
+![2](https://github.com/Vishakha1510/cpp-exam/assets/115111570/80a97a5f-322d-48dc-9e6a-6b90d93166e3)
+![3](https://github.com/Vishakha1510/cpp-exam/assets/115111570/99cd2490-59e1-4f48-ba61-99d11f4f5a40)
+![4](https://github.com/Vishakha1510/cpp-exam/assets/115111570/d2241bbc-ed9a-435f-85b8-3a1d1f295486)
+![7](https://github.com/Vishakha1510/cpp-exam/assets/115111570/d3fe66eb-042b-420f-be3f-c3feb32d567f)
